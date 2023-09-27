@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nama_makanan": "Rawon",
+        "rating": "5",
+        "asal": "Ponorogo, Jawa Timur",
+        "desc": "Rawon merupakan masakan khas Indonesia ang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek, Makanan ini telah berusia lebih dari 1.000 Tahun",
+        "kategori": "Makanan daerah",
+        "tempat": "Warung"
+    },
+    {
+        "id": 2,
+        "nama_makanan": "Sate Madura",
+        "rating": "5",
+        "asal": "Madura",
+        "desc": "Sate madura merupakan makanan khas madura yang mempunyai ciri khas tersendiri. Dengan campuran sate dengan bumbu kacang yang menggugah selera.",
+        "kategori": "Makanan daerah",
+        "tempat": "Pedagang kaki lima, warung"
+    },
+    {
+        "id": 3,
+        "nama_makanan": "Nasi Padang",
+        "rating": "4,9",
+        "asal": "Padang, Sumatera Barat",
+        "desc": "Nasi padang adalah nasi putih yang disajikan dengan berbagai macam lauk-pauk khas Minangkabau, Indonesia.",
+        "kategori": "Makanan daerah",
+        "tempat": "Warung"
+    },
+    {
+        "id": 4,
+        "nama_makanan": "Bakso",
+        "rating": "4,5",
+        "asal": "Indonesia",
+        "desc": "Bakso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia. Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat dari daging ayam, babi, ikan, udang bahkan daging kerbau.",
+        "kategori": "Makanan Umum",
+        "tempat": "Pedagang kaki lima, warung"
+    },
+    {
+        "id": 5,
+        "nama_makanan": "Gudeg",
+        "rating": "4,5",
+        "asal": "Yogyakarta",
+        "desc": "Gudeg adalah hidangan khas Provinsi Daerah Istimewa Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan ini. Warna cokelat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.",
+        "kategori": "Makanan daerah",
+        "tempat": "Pedagang kaki lima, warung"
+    }
+]
